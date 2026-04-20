@@ -8,5 +8,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://meusite.com',
+  site: 'https://blog-astro.pinaztuga.workers.dev/',
 });
